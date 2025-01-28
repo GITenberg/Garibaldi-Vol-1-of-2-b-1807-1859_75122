@@ -1,11 +1,16 @@
 _repo: Garibaldi-Vol-1-of-2-b-1807-1859_75122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75122-h/images/cover.jpg
 creator:
   author:
     agent_name: Guerzoni, Giuseppe
     gutenberg_agent_id: '57846'
     url: http://www.gutenberg.org/2009/agents/57846
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75122#Garibaldi-Vol-1-of-2-b-1807-1859
 gutenberg_issued: '2025-01-16'
 gutenberg_type: Text
 identifiers:
